@@ -8,6 +8,6 @@ end
 
 def play_game(player2)
   binding.pry
-"#{player2} is better than #{player1}"
+"#{player1} is better than #{player2}"
 
 end
